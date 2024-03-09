@@ -1,0 +1,8 @@
+.container-nav {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.container-content {
+   background-color: bisque;
+}
